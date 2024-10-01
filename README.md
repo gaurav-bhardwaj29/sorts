@@ -115,7 +115,7 @@ The Sorting Visualizer currently supports the following algorithms:
 	•	Time Complexity: O(n log n)
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/gaurav-bhardwaj29/sorts/blob/main/LICENSE) file for details.
 
 ## Acknowledgements
 
